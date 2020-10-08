@@ -6,4 +6,5 @@ Created on Thu Oct  8 08:39:35 2020
 @author: maurogaray
 """
 
-print("Hello World")
+def function(a,b):
+    return a + b 
