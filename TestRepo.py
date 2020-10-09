@@ -7,4 +7,4 @@ Created on Thu Oct  8 08:39:35 2020
 """
 
 def function(a,b):
-    return a + b 
+    return a - b 
