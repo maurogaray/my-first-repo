@@ -11,12 +11,17 @@ def is_even():
     num = int(input("Please enter a number: "))    
     if ( num % 2 ) == 0:
         print( "This number  is even")
-    else:
-        print( " This number is odd ")
+    
+
         
 is_even()
+#%%
+
+def is_odd():
+    
+    num = int(input("Please enter a number: ")) 
+    if ( num % 2 ) != 0: 
+        print ( "This number  is odd")
 
 
-
-
-
+is_odd() 
